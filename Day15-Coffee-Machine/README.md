@@ -5,10 +5,16 @@ This project simulates a simple coffee machine using Python and Object-Oriented 
 
 ## Sample Output
 What would you like? (espresso/latte/cappuccino): latte
+
 Please insert coins.
+
 How many quarters?: 4
+
 How many dimes?: 0
+
 How many nickels?: 0
+
 How many pennies?: 0
+
 Here is your latte ☕. Enjoy!
 
