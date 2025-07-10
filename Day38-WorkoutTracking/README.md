@@ -24,5 +24,5 @@ Note: All sensitive information (API keys, tokens) is stored securely using **en
 
 📸 Screenshot
 
-![Workout Tracker Screenshot](images/screenshot.png)
+![Workout Tracker Sheet](workout.png)
 
