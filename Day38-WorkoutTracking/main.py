@@ -1,13 +1,16 @@
 import requests
 from datetime import datetime
 import os
+from dotenv import load_dotenv
 
-NUTRITIONIX_API_ID = '44f4f260'
-NUTRITIONIX_API_KEY = '8bfcb371c4f0c15cedf4481272fa72cb'
+load_dotenv()
+NUTRITIONIX_API_ID = os.getenv('NUTRITIONIX_API_ID')
+NUTRITIONIX_API_KEY = os.getenv('NUTRITIONIX_API_KEY')
 NUTRITIONIX_ENDPOINT = 'https://trackapi.nutritionix.com/v2/natural/exercise'
 
-SHEETY_TOKEN = 'tester98'
-SHEETY_ENDPOINT = 'https://api.sheety.co/ae89495f4e462eca1451796701974fdb/workoutTracking/workouts'
+SHEETY_ID = os.getenv('SHEETY_ID')
+SHEETY_TOKEN = os.getenv('SHEETY_TOKEN')
+SHEETY_ENDPOINT = f'https://api.sheety.co/{SHEETY_ID}/workoutTracking/workouts'
 
 user_input = input('Tell me which exercises you did: ')
 
