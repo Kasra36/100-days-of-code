@@ -1,6 +1,6 @@
 🏋️ Day 38 – Workout Tracking with Nutritionix & Sheety
 
-This project is part of the **100 Days of Code: Python Bootcamp** and demonstrates how to build a workout tracking tool using two external APIs: **Nutritionix** and **Sheety**.
+This project demonstrates how to build a workout tracking tool using two external APIs: **Nutritionix** and **Sheety**.
 
 
 📌 What This Code Does
@@ -20,3 +20,9 @@ Note: All sensitive information (API keys, tokens) is stored securely using **en
 - `datetime` – For getting the current date and time.
 - `os` – To load environment variables securely.
 - `dotenv` – To read the `.env` file and load variables into the environment.
+
+
+📸 Screenshot
+
+![Workout Tracker Screenshot](images/screenshot.png)
+
