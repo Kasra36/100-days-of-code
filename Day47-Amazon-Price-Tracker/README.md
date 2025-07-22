@@ -2,11 +2,13 @@
 
 This project is a simple Amazon Price Tracker built using BeautifulSoup and Requests.
 
+
 📌 What This Code Does
 
 - Fetches the product title and current price from a specific Amazon product page.
 - Compares the current price with a predefined target price.
 - Sends an email notification via Gmail SMTP if the price drops below the target.
+
 
 🧰 Modules Used
 
