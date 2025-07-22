@@ -17,3 +17,7 @@ This project is a simple Amazon Price Tracker built using BeautifulSoup and Requ
 * smtplib – To send the email alert.
 * os – To access environment variables.
 * dotenv – To load variables from the .env file.
+
+
+📸 Example Output
+![Price Alert Email Screenshot](ScreenShot.jpg)
