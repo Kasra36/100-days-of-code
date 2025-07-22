@@ -5,6 +5,6 @@ This repository contains Python projects completed during the [100 Days of Code:
 ## 📌 Contents
 - Day 15: Coffee Machine
 - Day 22: Pong
-- Day 24: Snake
-- Day 30: Password Manager with Tkinter
-- ...
+- Day 29: Password Manager
+- Day 38: Workout Tracking
+- Day 47: Amazon Price Tracker
