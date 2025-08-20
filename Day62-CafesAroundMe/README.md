@@ -13,11 +13,11 @@ Used the **CSV module** to store cafe data as a lightweight database.
 **Client Page (Homepage)**
 ![Admin Page](screenshots/homepage.png)
 
-**Client Page (View Cafes)**
+**Client Page (Cafes)**
 ![Client Page](screenshots/cafes.png)
 
 **Admin Page (Add Cafe)**
 ![Admin Page](screenshots/admin.png)
 
-**Database (List of Cafes)**
+**CSV Database**
 ![Admin Page](screenshots/database.png)
