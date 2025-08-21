@@ -84,6 +84,4 @@ add_buttom = Button(text="Add", font=FONT, width=30, command=save)
 add_buttom.grid(column=1, row=4, columnspan=2)
 
 
-
-
 window.mainloop()
