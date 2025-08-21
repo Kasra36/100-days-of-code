@@ -40,8 +40,6 @@ title = ''
 for word in title_list:
     title += word + " "
 
-#print(title)
-
 with smtplib.SMTP("smtp.gmail.com", 587) as con:
     con.starttls()
     con.login(user=MY_EMAIL, password=PASSWORD)
