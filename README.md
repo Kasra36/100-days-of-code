@@ -52,6 +52,7 @@ Each folder contains:
 | 38   | Workout Tracker API        | Python, Nutritionix + Sheety API | Logs exercise data to Google Sheets           |
 | 47   | Price Tracker Bot          | Python, Requests, BS4, smtplib   | Monitors Amazon prices and sends email alerts |
 | 53   | Zillow Form Automation     | Selenium, BS4, Google Forms      | Scrapes property data & auto-fills a form     |
+| 62   | Cafes Around Me            | Flask, SQLAlchemy                | A website to add cafes and view their amenities |
 
 ---
 
