@@ -20,7 +20,7 @@ class CafeForm(FlaskForm):
     power_rating = SelectField('power', validators=[DataRequired()], choices=[('🔌', "🔌"), ('🔌🔌', "🔌🔌"), ('🔌🔌🔌', "🔌🔌🔌")])
     submit = SubmitField('Submit')
 
-# all Flask routes below
+
 @app.route("/")
 def home():
     return render_template("index.html")
